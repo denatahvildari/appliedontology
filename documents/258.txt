@@ -1,0 +1,1 @@
+HPSEC was performed on three TSKgel columns (7.8 \'b7 300 mm) in series (G4000, G3000, G2500; Tosohaas), in combination with a PW XL-guard column (Tosohaas). Elution took place at 30 C with 0.2 sodium nitrate at 0.8 ml/min. The eluate was monitored using a refractive index (RI) detector (Shodex RI-71). Calibration was performed using pullulans (Polymer Laboratory).

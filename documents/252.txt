@@ -1,0 +1,1 @@
+Separation of proteins was carried out on a Superdex 75 10/30 column on an AKTA purifier (Amersham Biosciences) The column was equilibrated with 10 mM phosp hate-buffer(K2HPO4/KH2PO4), containing 0.15 M NaCl (pH 7.0 at208C), the flow-rate was set at 0.75 mL/min. Proteindetection was at 280 nm.

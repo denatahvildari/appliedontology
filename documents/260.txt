@@ -1,0 +1,11 @@
+Xylan and xylan fractions were dissolved in pure water
+(4 mg/mL) and subjected (20 ll) to HPSEC. High-performance
+size-exclusion chromatography was performed on a
+Thermo Separation Products HPLC system equipped with a
+membrane solvent-degasser, three TSKgel columns (7.8 mm
+ID \'b7 30 cm per column) in series (G4000, G3000, G2500;
+Tosohaas), in combination with a PWX-guard column (Tosohaas).
+Elution took place at 30 C with 0.2 M sodium nitrate
+at 0.8 mL/min. The eluate was monitored using a refractive
+index (RI) detector (Shodex RI-71). Calibration was
+performed using pullulans (Polymer Labs). 

@@ -1,0 +1,11 @@
+Sugar phosphates in the NaOH hydrolysate of the WTA were
+analyzed on an Accela UPLC system (Thermo Fischer Scientific)
+coupled to a LTQ-XL Linear Iontrap Mass Spectrometer equipped
+with an electrospray ionization source (Thermo Fisher Scientific),
+as described by Leijdekkers et al.25 with minor modifications. Chromatographic
+separation was performed on an Acquity UPLC BEH
+amide (Waters) column at a flow rate of 0.5 mL/min with an oven
+temperature of 35 C. Compounds were eluted using a gradient of
+CH3CN in 10 mM ammonium formate???0.1% (v/v) formic acid buffer
+(pH 3.0), with the following elution profile: 0???1 min, isocratic 80%
+CH3CN (v/v); 1???31 min, 80???50%; 31???36 min, 50???20%. Ions were detected

@@ -1,0 +1,11 @@
+ High-performance anion-exchange was performed on
+a Thermo Separation Products (San Jose, USA) system
+equipped with a Dionex (Sunnyvale, USA) CarboPac
+PA-20 column (3 mm ID 150 mm) in combination with
+a Dionex CarboPac PA guard column (3 mm  25 mm)
+and PAD-detection (Dionex). For the analysis of xylose
+and glucose in the hydrolysates, an isocratic elution
+(0.5 ml min1) of 20 min was carried out with 18 mM
+NaOH. Each elution was followed by a washing (5 min
+300 mM NaOAc) and two equilibration steps (5 min
+100 mM NaOH and 15 min 18 mM NaOH).

@@ -1,0 +1,13 @@
+The released sugars were analyzed using high
+performance anion exchange chromatography (HPAEC)
+with pulsed amperometric detection (PAD) using a Dionex
+system containing a ThermoQuest HPLC system and a
+Dionex EDM Helium degas unit. After hydrolysis the
+samples were injected on a Carbopac PA10 column
+(4 250 mm) with a Carbopac PA10 guard column (4
+50 mm) preceded with a borate trap (Dionex) and separated at
+1 mL/min by isocratic elution with water for 40 min followed
+by a linear gradient from 0 to 800 mM NaOH in 30 min.
+Detection was performed after the post column addition
+of 0.5mL/min of 1M NaOH using a Dionex ED 40 PAD
+detector.

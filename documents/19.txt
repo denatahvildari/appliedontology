@@ -1,0 +1,2 @@
+Column chromatography was performed using Fluka Si gel (Kieselgel 60, 230-
+400 mesh) and Pharmacia Sephadex LH-20. Medium-pressure liquid chromatography (MPLC) was carried out on a Jobin Yvon axial compression system equipped with a Gilson 303 pump and 802 C manometric module. The column was filled with Bakerbond 40 \'b5m RP-18 stationary phase. Eluted fractions were collected with a LKB Bromma 2111 Multirac sample collector.

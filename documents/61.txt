@@ -1,0 +1,20 @@
+ After thawing, the 14000-rpm supernatant was
+analyzed with HPLC, performed with a Waters M600
+liquid chromatography system (Millipore Corporation,
+Bedford MA). Quercetin was quantified using
+an Alltima C18 5U column (4.6 \'a3 150 mm; Alltech,
+Breda, The Netherlands), eluting at a flow of
+1 ml/min. The injection volume was 10 ml. The
+gradient used for analysis of quercetin in the 0.1 M
+potassium phosphate pH 7.4 series was described
+previously [11]. The McCoy\'92s medium series were
+analyzed with a gradient starting at 0% acetonitril in
+nanopure water containing 0.1% trifluoracetic acid for
+2 min, going from 0 to 70% acetonitril in 22 min,
+keeping this percentage for 2 min and returning to 0%
+acetonitril in 1 min. Detection was performed
+between 230 and 420 nm using a Waters 996
+photodiode array detector. Quercetin peak areas at
+370 nm were used to quantify the amount of
+quercetin; amounts are expressed as percentage of
+the peak area at t \'bc 0 min.

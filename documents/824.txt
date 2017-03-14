@@ -1,0 +1,1 @@
+Ethanol in the headspace was measured using an Agilent GC-6890A gas chromatography equipped with a flame ionization detector (FID) and pp-20000 column. N2 was used as a carrier gas, the flow rate was 2 mL min\uc0\u8722 1, and the column temperature was 100 \'b0C.

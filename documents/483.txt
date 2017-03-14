@@ -1,0 +1,5 @@
+Reaction products and a a-lactalbumin reference sample (50 ml) were applied to
+a Superose 6 10/300 GL column (GE Healthcare, Uppsala) connected to an Akta
+Purifier system at room temperature. The column was equilibrated and eluted
+with 0.1 M ammonium acetate buffer pH 6.8 at a flow rate of 0.5 mL min 1
+. The eluate was monitored at 280 nm.

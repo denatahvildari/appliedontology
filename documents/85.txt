@@ -1,0 +1,1 @@
+Vicilin 1\'b0 and vicilin 2\'b0 were loaded onto a Source 15 Q PE 4.6/100 column (Amersham Biosciences) (100 mL, 25 mg/mL concentration in buffer A as referred to above). They were eluted at 10 mL/min with a linear salt gradient from 0.075 to 0.5 M NaCl in running buffer A over 6 column volumes. The eluate was monitored at 280 nm, and 5 mL fractions were collected.

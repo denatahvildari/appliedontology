@@ -1,0 +1,1 @@
+Separation of proteins was carried out on a Superdex S200HR column (Pharmacia Biotech) with a bed volume of24 ml. The column was equilibrated with 10 mM PB(Na2HPO4/NaH2PO4) pH 7.0 and 50 mM NaCl at 20\'b0C.Then 200f1 l of a 5 mg/ml sample was applied to the columnand the flow-rate was set to 0.4 ml/min. Detection tookplace at 280 nm.

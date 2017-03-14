@@ -1,0 +1,1 @@
+Analytical size exclusion chromatography was performed on a Superdex 200 10/300 column (0.1 mL of sample applied per run, GE Healthcare). The column was equilibrated and eluted with 15 mM sodium phosphate buffer, pH 6.2, at a flow rate of 0.5 mL min-1 , using an A\'a8 kta purifier system operated at room temperature. The eluate was monitored at 280 and 325 nm.

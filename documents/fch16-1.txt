@@ -1,0 +1,10 @@
+Degree of acetylation and methyl esterification
+The degree of acetylation and methyl esterification of samples
+were determined after saponification with 0.4 M sodium hydroxide
+in isopropanol/water (50/50 v/v) by using Thermo Finnigan
+(USA) high performance liquid chromatography equipped with
+Aminex HPX 87H column (Bio-Rad, USA).55 The elution took place
+at 40 C with 0.01 N H2SO4 at a flow rate of 0.6 mL/min. The degree
+of acetylation and methyl esterification were calculated as moles of
+acetic acids and methanol per 100 moles of galacturonic acid,
+respectively.
